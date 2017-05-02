@@ -1,9 +1,9 @@
 # hello-world
-##My first repository ever##
+## My first repository ever
 About me:
-* Age **31**
+* Age **32**
 * Role _Volunteer for the Mozilla Italia L10n Team_
-* [Mozillian profile] (https://mozillians.org/en-US/u/sara_t/)
+* [Mozillian profile](https://mozillians.org/en-US/u/sara_t/)
 * Speaking
   * English
   * Italian
