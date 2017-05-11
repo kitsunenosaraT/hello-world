@@ -1,6 +1,6 @@
 # Guida di localizzazione di Mozilla Italia
 
-Benvenuto alla guida redatta dal team di localizzazione di Mozilla Italia. \Siamo un gruppo di volontari, appassionati del mondo della traduzione e dell’*open source*, che dedicano il proprio tempo libero a rendere accessibili per gli utenti italiani i prodotti, gli eventi e i valori fondanti di [Mozilla](https://www.mozilla.org).
+Benvenuto alla guida redatta dal team di localizzazione di Mozilla Italia. \ Siamo un gruppo di volontari, appassionati del mondo della traduzione e dell’*open source*, che dedicano il proprio tempo libero a rendere accessibili per gli utenti italiani i prodotti, gli eventi e i valori fondanti di [Mozilla](https://www.mozilla.org).
 
 ### La guida
 
