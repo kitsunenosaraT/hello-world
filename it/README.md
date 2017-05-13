@@ -1,18 +1,16 @@
 # Guida di localizzazione di Mozilla Italia
 
-Benvenuto alla guida redatta dal team di localizzazione di Mozilla Italia.
-  
+Benvenuto alla guida redatta dal team di localizzazione di Mozilla Italia.  
 Siamo un gruppo di volontari, appassionati del mondo della traduzione e dell’*open source*, che dedicano il proprio tempo libero a rendere accessibili per gli utenti italiani i prodotti, gli eventi e i valori fondanti di [Mozilla](https://www.mozilla.org).
 
 ### La guida
 
-Si tratta di un’opera collaborativa, frutto del dialogo aperto tra localizzatori senior e nuovi volontari che si affacciano per la prima volta  al mondo della traduzione, esperti linguistici, tecnici informatici e “semplici” utenti. 
+Si tratta di un’opera collaborativa, frutto del dialogo aperto tra localizzatori senior e nuovi volontari che si affacciano per la prima volta  al mondo della traduzione, esperti linguistici, tecnici informatici e “semplici” utenti.  
 Abbiamo scelto questo approccio proprio per creare una documentazione a tutto tondo, in grado di includere diversi punti di vista ed esigenze.
 
 La guida è nata come un manuale per raccogliere tutte le nozioni necessarie ai nuovi volontari che aspirano ad entrare a far parte del team di localizzazione di [Mozilla Italia](https://www.mozillaitalia.org).
 
-Nella veste più ampia di membri della comunità Mozilla, abbracciamo e facciamo nostra la filosofia “open”, secondo cui le conoscenze e le risorse sono un bene comune, di cui tutti possono usufruire e a cui ciascuno può apportare miglioramenti.
-
+Nella veste più ampia di membri della comunità Mozilla, abbracciamo e facciamo nostra la filosofia “open”, secondo cui le conoscenze e le risorse sono un bene comune, di cui tutti possono usufruire e a cui ciascuno può apportare miglioramenti.  
 Per questo invitiamo i colleghi localizzatori di altre lingue e comunità a utilizzare liberamente questa guida, integrandola ed adattandola alle proprie esigenze per creare una propria versione personalizzata che meglio si adatti ai meccanismi interni e al metodo di lavoro delle loro comunità.
 
 Allo stesso modo, chiunque lo desideri, può contribuire a rendere questo documento sempre più completo e inclusivo, partecipando alla stesura delle future versioni su [GitHub](https://github.com/kitsunenosaraT/Mozilla-Italia-l10n-guide/).
@@ -102,4 +100,5 @@ Un piccolo glossario dei termini ricorrenti in questa guida.
 
 #### Licenza
 
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Quest’opera è distribuita con Licenza <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>  
+Quest’opera è distribuita con Licenza <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribuzione 4.0 Internazionale</a>.
