@@ -53,13 +53,13 @@ Le sequenza `.”.`, `.).` e simili sono considerate graficamente sgradevoli e p
 
 Dunque, qualora si verificassero, si omette il punto all’interno delle virgolette o parentesi lasciando solo quello esterno.
 es.
->Sì: Gli risposi “Ora puoi andare**”.** \
+>Sì: Gli risposi “Ora puoi andare**”.**  
 No: Gli risposi: “Ora puoi andare**.”.**
 
 Il punto va anche evitato alla fine dei titoli.
 
 es.
->Sì: La guida di localizzazione di Mozilla Italia \
+>Sì: La guida di localizzazione di Mozilla Italia  
 No: La guida di localizzazione di Mozilla Italia**.**
 
 ##### Punto esclamativo
@@ -68,7 +68,7 @@ Viene utilizzato spesso (a volte abusato) nello stile informatico anglofono, spe
 Nello stile di localizzazione italiano, e a Mozilla Italia in particolare, è da dosare con parsimonia.
 
 es.
->EN: Error 404: page not found**!** \
+>EN: Error 404: page not found**!**  
 IT: Errore 404: pagina non trovata**.**
 
 In ogni caso, sono *sempre* da evitare le stringhe continue di punti esclamativi o interrogativi come
@@ -82,18 +82,18 @@ Tuttavia, esso viene utilizzato anche in vari tipi di codice, per questo può ge
 
 Meglio dunque utilizzare l’apostrofo curvo, detto anche tipografico `’`.
 
->Scorciatoie da tastiera per l’apostrofo curvo: \
-**Windows** `AltGr + Shift + B` \
-**MacOS** `Alt + Shift + 3` \
+>Scorciatoie da tastiera per l’apostrofo curvo:  
+**Windows** `AltGr + Shift + B`  
+**MacOS** `Alt + Shift + 3`  
 **Linux** ???
 
 Errori più comuni per l’apostrofo:
->Sì: un altro \
+>Sì: un altro  
 No: un'altro
 
 e simili casi di articolo indeterminativo + maschile.
 
-> Sì: Qual è \
+> Sì: Qual è  
 No: Qual’è
 
 In realtà il dibattito tra i linguisti italiani è ancora aperto, ma per uniformità stilistica scegliamo di adottare la versione priva di apostrofo.
@@ -103,17 +103,17 @@ Per la stessa ragione dell’apostrofo, preferiamo alle virgolette dritte, quell
 
 **N.B.** Le virgolette dritte sono intercambiabili, ma quelle curve sono due distinte, una per l'apertura `“` orientata verso sinistra, e una di chiusura, orientata verso destra `”`.
 
->Scorciatoie da tastiera per le virgolette curve: \
-**Windows** apertura `AltGr + V`, chiusura `AltGr + B` \
-**MacOS** apertura `Alt + 2`, chiusura `Alt + Shift + 2` \
+>Scorciatoie da tastiera per le virgolette curve:  
+**Windows** apertura `AltGr + V`, chiusura `AltGr + B`  
+**MacOS** apertura `Alt + 2`, chiusura `Alt + Shift + 2`  
 **Linux** ????
 
 ##### Ellissi
 Per digitare i puntini di sospensione, chiamati anche ellissi, molti premono semplicemente il tasto `.` tre volte in successione. In realtà il simbolo dell’ellissi ha la sua combinazione di tasti dedicata.
 
->Scorciatoie da tastiera per ellissi: \
-**Windows** `Alt + 0133` \
-**MacOS**  `Alt + ,` \
+>Scorciatoie da tastiera per ellissi:  
+**Windows** `Alt + 0133`  
+**MacOS**  `Alt + ,`  
 **Linux** ????
 
 Questo accorgimento diventa particolarmente utile in caso di limitazione dei caratteri, per esempio nei *tweet* di Twitter: infatti `…` viene conteggiato come un solo carattere.
@@ -126,26 +126,26 @@ Il trattino corto va utilizzato esclusivamente come *trait d’union* in un comp
 **N.B.** Alcuni vocaboli, che inizialmente erano composti da due parole distinte col trattino, sono tanto entrate nell’uso che possono venire scritte senza.
 Esempi sono le seguenti parole:
 
->e-mai / email \
-on-line / online \
+>e-mai / email  
+on-line / online  
 multi-piattaforma / multipiattaforma
 
 Il trattino lungo è usato per gli incisi, o comunque per separare due frasi, e va sempre preceduto e seguito da uno spazio.
 
->Scorciatoie da tastiera per il trattino lungo: \
-**Windows** `Alt + 0151` \
-**MacOS** `Alt + -` \
+>Scorciatoie da tastiera per il trattino lungo:  
+**Windows** `Alt + 0151`  
+**MacOS** `Alt + -`  
 **Linux** ????
 
 Il trattino lungo viene molto usato in inglese, ma non è altrettanto comune in italiano. Quando possibile è meglio sostituirlo con un altro segno di punteggiatura appropriato al caso.
 
 es.
->EN: Firefox **–** The browser that puts privacy at the first place \
+>EN: Firefox **–** The browser that puts privacy at the first place  
 IT: Firefox**:** il browser che mette la privacy al primo posto.
 
 oppure
 
->EN: Firefox **–** the browser that puts privacy at the first place **–** is now available for Android. \
+>EN: Firefox **–** the browser that puts privacy at the first place **–** is now available for Android.  
 IT: Firefox**,** il browser che mette la privacy al primo posto**,** è ora disponibile per Android.
 
 #### Maiuscole e minuscole
@@ -154,17 +154,17 @@ Le regole della maiuscola sono diverse in italiano e in inglese. In italiano van
 - nomi propri
 - acronimi \
 es.
->HTML (**H**yper**T**ext **M**arkup **L**anguage) \
+>HTML (**H**yper**T**ext **M**arkup **L**anguage)  
 URL (**U**niform **R**esource **L**ocators)
 
-- abbreviazioni \
+- abbreviazioni  
  es.
 >Web (World Wide **Web**)
 
 - la prima lettera di ciascun termine che indichi il nome di un tasto della tastiera
 - la prima lettera della prima parola di un periodo
 - la prima lettera della prima parola di un titolo es.
->EN: **H**ow to **C**ontribute in the **I**talian **C**ommunity \
+>EN: **H**ow to **C**ontribute in the **I**talian **C**ommunity  
 IT: **C**ome collaborare nella comunità italiana
 
  **N.B.** I titoli *non* terminano mai con `.`
@@ -185,21 +185,21 @@ Si sta diffondendo sempre di più l’uso di scrivere sempre indifferentemente i
 Quando intesi come sostantivi, si usa il maiuscolo:
 
 es.
->Salviamo il **Web** \
+>Salviamo il **Web**  
 **Internet** è una risorsa per tutti
 
 Quando intesi come attributi vanno invece minuscoli:
 
 es.
->sito **web** \
+>sito **web**  
 connessione **internet**
 
 #### Plurale dei vocaboli stranieri
 I vocaboli stranieri sono da considerare *invariabili*, ovvero compaiono sempre nella stessa forma indipendentemente che siano al singolare o al plurale. L’articolo (singolare o plurale) sarà sufficiente a indicare il numero del vocabolo.
 
 Es.
-> “I CD” e non “i CD**s**” \
-“I file” e non “I file**s**” \
+> “I CD” e non “i CD**s**”  
+“I file” e non “I file**s**”  
 “le password” e non “le pasword**s**”
 
 I motivi di questa regola sono facilmente intuibili: se ogni parola di ogni lingua straniera che entra nella lingua italiana si trascinasse dietro le  proprie regole grammaticali, sarebbe il caos più totale. Si pensi per esempio a lingue come il tedesco, dove una parola non ha solo la forma singolare o plurale, ma va anche declinata a seconda del suo ruolo all’interno della frase.
@@ -211,7 +211,7 @@ Tuttavia quando un vocabolo straniero entra nella lingua italiana, occorre asseg
 Di solito è l’uso comune a determinare il genere di un vocabolo straniero. Questa assegnazione avviene secondo un rapporto di tipo associativo con il più vicino corrispondente italiano.
 
 es.
->“la posta / la lettera” diventa “l(a)’email” \
+>“la posta / la lettera” diventa “l(a)’email”  
 “la parola chiave” diventa “la password”
 
 Tuttavia esistono anche note eccezioni, come:
@@ -238,8 +238,8 @@ Ogni lingua possiede il suo modo peculiare di strutturare una frase, per cui nel
 Ecco alcune modifiche che possono evitare i calchi linguistici dall’inglese e rendere la traduzione italiana più chiara e scorrevole.
 
 #### Lunghezza delle frasi
-L’inglese è notoriamente una lingua che preferisce periodi semplici e collegati paratatticamente. \
-L’italiano è, al contrario, una lingua famosa per il periodare lungo e complesso, in cui prevale la subordinazione. \
+L’inglese è notoriamente una lingua che preferisce periodi semplici e collegati paratatticamente.  
+L’italiano è, al contrario, una lingua famosa per il periodare lungo e complesso, in cui prevale la subordinazione.  
 Ne consegue che a volte traducendo dall’inglese all’italiano, il periodo che risulta appare fin troppo “elementare”, spezzettato.
 
 Per evitare questo effetto può essere utile unire due periodi brevi in uno più lungo, quando possibile evidenziandone il nesso logico con una proposizione subordinata. Questo darà al discorso un senso di continuità e renderà più facile seguirne il filo logico.
@@ -249,14 +249,14 @@ Per evitare questo effetto può essere utile unire due periodi brevi in uno più
 Altra caratteristica dell’inglese è la preferenza per un lessico generico, un buon esempio del quale sono i *phrasal verbs*, che uniscono a verbi comuni una preposizione per dargli un nuovo significato, anche quando per quello stesso significato esisterebbe un verbo più specifico.
 
 Fare particolarmente attenzione ai seguenti termini:
->register / sign up \
+>register / sign up  
 access / sign in
 
 In italiano questa scelta stilistica viene interpretata come povertà lessicale. Per questo è preferibile utilizzare i termini più puntuali possibili senza scadere ovviamente in un linguaggio ingessato o pedante.
 
 es.
->accedi vs. entra \
-invia vs. manda \
+>accedi vs. entra  
+invia vs. manda  
 sviluppare/progettare (un software) vs. costruire, creare ecc.
 
 È comunque sempre buona norma non abusare dei verbi generici come fare, esserci, dare e dei “sostantivi ombrello” come cosa, fatto ecc.
@@ -271,27 +271,27 @@ Per esempio un programma “potente” potrebbe essere, a seconda del singolo ca
 ##### False friend
 In ultimo bisogna evitare le trappole dei *false friend* (parole straniere che somigliano a termini esistenti italiani, ma hanno un significato diverso). Alcuni dei principali sono:
 - submit:
-non sottomettere (assoggettare qualcuno al proprio volere), ma sottoporre (ad esame). \
+non sottomettere (assoggettare qualcuno al proprio volere), ma sottoporre (ad esame).  
 A seconda dei casi, per esempio in presenza di un modulo per inoltrare file, si possono utilizzare anche inviare o caricare.
 es.
->EN: Submit your add-on for review. \
+>EN: Submit your add-on for review.  
 IT: Carica il componente aggiuntivo per il processo di revisione.
 
 - application:
 attenzione al contesto! Il software è un’“applicazione”, quando si fa domanda per partecipare a un progetto si dice candidatura, proposta o simili.
 
 es.
->EN: Submit your application at the following email address \
+>EN: Submit your application at the following email address  
 IT: Invia la candidatura al seguente indirizzo email.
 
 - excited: non “eccitato”, termine dalle connotazioni sessuali o comunque esagerate, ma “entusiasta” (es. siamo entusiasti della nuova versione), o a seconda dei casi “impaziente” (sono impaziente che esca la nuova versione), “orgoglioso” (siamo orgogliosi di presentare la nuova versione) ecc.
 
 es.
->EN: We are all excited for the upcoming release of Firefox. \
+>EN: We are all excited for the upcoming release of Firefox.  
 IT: Attendiamo tutti con impazienza il prossimo aggiornamento di Firefox.
 
 #### Diatesi
-Certi usi inglesi del passivo risultano in una traduzione italiana inutilmente macchinosa, specialmente quando si stanno scrivendo istruzioni complesse. \
+Certi usi inglesi del passivo risultano in una traduzione italiana inutilmente macchinosa, specialmente quando si stanno scrivendo istruzioni complesse.  
 In questi casi è preferibile capovolgere la diatesi trasformando la forma passiva in attiva per maggiore chiarezza.
 
 es.
@@ -335,29 +335,23 @@ Alcuni esempi di scelte terminologiche di Mozilla Italia:
 Anche i neologismi usati colloquialmente sono da evitare il più possibile nella lingua scritta.
 
 Es.
-> cliccare > fare clic (senza k)
-\
-postare > pubblicare un articolo / un post
-\
-editare > modificare
-\
+> cliccare > fare clic (senza k)  
+postare > pubblicare un articolo / un post  
+editare > modificare  
 loggarsi > accedere
 
 
 #### Nomi propri
 Caso a parte sono i nomi propri, di prodotti o eventi. Quando esiste un traducente italiano *ufficiale* di un prodotto, va usato quello, altrimenti si lascia la versione originale, senza inventarsi un nome italiano che potrebbe non essere riconosciuto dall’utente finale.
 
-> es. il programma predefinito di visualizzazione Preview nel Mac nel locale italiano è Anteprima.
-\
+> es. il programma predefinito di visualizzazione Preview nel Mac nel locale italiano è Anteprima.  
 Invece il programma di elaborazione video iMovie rimane iMovie anche in Italiano.
 
 **N.B.** I nomi di associazioni o prodotti coperti da *trademark* vanno riportati esattamente come scritti nella grafia ufficiale.
 
 es.
->JavaScript e non Javascript o Java Script
-\
-PayPal e non Paypal o Pay Pal
-\
+>JavaScript e non Javascript o Java Script  
+PayPal e non Paypal o Pay Pal  
 iPhone e non iphone o i-Phone
 
 In caso di prodotti o eventi Mozilla, dato che l’associazione ha voce in capitolo sulla decisione, si valuterà insieme di caso in caso se mantenere l’originale o localizzarlo.
@@ -369,10 +363,8 @@ In questi casi improvvisare una traduzione arbitraria corre il rischio di causar
 Pertanto è consigliabile gestirli alla stregua dei nomi propri e mantenerli in inglese.
 
 Esempi da lasciare invariati:
->Mitchell Baker, Executive Chairwoman
-\
-Chris Beard, Chief Executive Officer
-\
+>Mitchell Baker, Executive Chairwoman  
+Chris Beard, Chief Executive Officer  
 Mark Surman, President and Executive Director
 
 Può essere utile, per motivi di diffusione internazionale, mantenere in lingua inglese la documentazione per sviluppatori contenente nomi di tecnologie nuove o sconosciute per cui non si è ancora affermato un traducente in lingua italiana.
