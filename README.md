@@ -12,3 +12,6 @@ About me:
   
 Motto:
 > Sometimes you gotta do what you love to do, even if it's not a good idea.
+
+Last reading:
+*La bottega dello Speziale*
